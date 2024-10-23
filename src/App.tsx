@@ -72,9 +72,8 @@ const App = () => {
         <section id="about" className="space-y-4">
           <h2 className="text-3xl font-semibold">About Me</h2>
           <P>
-            blbakblabslbnjkdfsahkjfhdskjfhskjhfjksahfjkshajkfhasjkhfjksahfjk
-            fjdshfkjshafkjahsjkfhsjkhfjkshdjkfhs
-            hdjskhfjksdhfjksdhfjksdhfjkhdsjkfhsdjkfhsdjkhfjksdhf
+            My name is Jakob Tøssebro and I am a Computer Science student at
+            NTNU in Trondheim.
           </P>
         </section>
 
